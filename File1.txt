@@ -1,8 +1,9 @@
 This is my  first git.......welcome to git singham...!!!
 
 class HelloGit{
-	main(){
+	public static void main(string str[]){
 		sysout(Hello git...");
+	
 
 	}
 }
