@@ -1,1 +1,8 @@
 This is my  first git.......welcome to git singham...!!!
+
+class HelloGit{
+	main(){
+		sysout(Hello git...");
+
+	}
+}
