@@ -13,4 +13,10 @@ class HelloGit{
 		obj.hellogit();
 
 	}
+	mybigmethod()
+	{
+	Sysout("has a method implementation");	
+
+	}
+	
 }
