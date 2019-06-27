@@ -1,8 +1,15 @@
 This is my  first git.......welcome to git singham...!!!
 
 class HelloGit{
+
+	helloGit()
+	{
+		sysout("Hello git.....Welcome...");
+
+	}
+
 	public static void main(string str[]){
-		System.out.println(Hello git...");
+		
 	
 
 	}
