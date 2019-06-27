@@ -2,7 +2,7 @@
 
 class HelloGit{
 
-	helloGit()
+	public static final void helloGit(String str)
 	{
 		system.out.println("Hello git.....Welcome...");
 
@@ -10,7 +10,7 @@ class HelloGit{
 
 	public static void main(string str[]){
 		HelloGit obj=new HelloGit();
-		obj.hellogit();
+		obj.hellogit("Hello");
 
 	}
 }
