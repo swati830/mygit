@@ -1,16 +1,16 @@
-This is my  first git.......welcome to git singham...!!!
+//This is my  first git.......welcome to git singham...!!!
 
 class HelloGit{
 
 	helloGit()
 	{
-		sysout("Hello git.....Welcome...");
+		system.out.println("Hello git.....Welcome...");
 
 	}
 
 	public static void main(string str[]){
-		
-	
+		HelloGit obj=new HelloGit();
+		obj.hellogit();
 
 	}
 }
