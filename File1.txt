@@ -2,15 +2,15 @@
 
 class HelloGit{
 
-	helloGit()
+	static void helloGit()
 	{
 		system.out.println("Hello git.....Welcome...");
 
 	}
 
 	public static void main(string str[]){
-		HelloGit obj=new HelloGit();
-		obj.hellogit();
+		
+		HelloGit.hellogit();
 
 	}
 	mybigmethod()
